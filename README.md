@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 ¡Hola! 👋 Soy Kevin, estudiante de la Tecnicatura en Programación en la UTN de Rosario, Argentina. Actualmente, el mundo de la tecnología me ha llevado a explorar diferentes áreas.<br><br>Mi trayectoria comenzó con un sólido dominio de C, donde aprendí las bases de la programación y la lógica detrás de la creación de software (Sumado a PseInt). Sin embargo, mis ganas de adquirir conocimiento me ha llevado más allá y actualmente estoy inmerso en el universo del desarrollo web y la programación en general.<br><br>En el ámbito del desarrollo Front End, he estado trabajando con HTML, CSS y JavaScript para crear interfaces atractivas y funcionales. <br><br>Además, he estado explorando el mundo del Back End utilizando Python.<br><br>Me considero una persona proactiva en aprendizaje continuo. En busca de nuevas oportunidades para ampliar mis conocimientos.<br><br>Siempre estoy buscando oportunidades de colaboración y aprendizaje mutuo. <br><br>Comprometido con el proceso, aspiro fortalecer mis habilidades y divertirme en el camino. 🚀🌱
 
 
