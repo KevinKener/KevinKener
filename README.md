@@ -21,7 +21,7 @@
 
 ## 🧠 Sobre mí
 
-Soy desarrollador **Full Stack** recibido de la UTN Rosario, con stack principal en **.NET + React**. Actualmente en transición activa hacia **AI Engineering**, explorando ML, NLP y LLMs mientras construyo productos reales con agentes de IA.
+Soy **Tecnico Universitario en Programacion** recibido de la UTN Rosario, con stack principal en **.NET + React + SQL**. Actualmente en transición activa hacia **AI Engineering**, explorando ML, NLP y LLMs mientras construyo productos reales con agentes de IA.
 
 Hoy trabajo en mi **primer proyecto profesional pago** — una PWA de fidelización para una cadena de hamburgueserías, construida con React + Node.js + Supabase y desplegada en Vercel, usando Claude Code y agentes IA como parte del flujo de desarrollo.
 
