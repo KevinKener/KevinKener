@@ -14,7 +14,7 @@
 Desarrollador **Full Stack** con base en **.NET y TypeScript**. Construyo productos completos, **de la idea a producción**:
 entiendo el problema del negocio, lo traduzco en reglas claras, desarrollo, despliego y mido el resultado.
 
-- 🧩 **Producto de punta a punta.** Relevamiento con el cliente, reglas de negocio, diseño de la solución, desarrollo, deploy y soporte. Hoy tengo proyectos en producción para clientes reales y estoy desarrollando un portal de empleo para un municipio.
+- 🧩 **Producto de punta a punta.** Relevamiento con el cliente, reglas de negocio, diseño de la solución, desarrollo, deploy y soporte. Hoy tengo proyectos en producción para clientes reales y para el Gobierno de Funes.
 - ✅ **Calidad que se puede verificar.** Tests, CI, documentación y decisiones técnicas explícitas: código que otra persona puede entender y mantener.
 - 🤖 **IA aplicada al desarrollo.** Integro Claude Code y agentes en mi flujo de trabajo para entregar más rápido sin resignar calidad, y me estoy especializando en **AI Engineering** (LLMs y agentes).
 - 🤝 **Abierto a colaborar.** Me sumo a equipos, proyectos colaborativos y code reviews. Me gusta aprender de otros devs y compartir lo que sé.
@@ -87,6 +87,8 @@ entiendo el problema del negocio, lo traduzco en reglas claras, desarrollo, desp
 | | Área | Foco |
 |---|---|---|
 | 🤖 | **AI Engineering** | LLMs, agentes y RAG aplicados a productos reales |
+| 🧠 | **Desarrollo con agentes de IA** | Claude Code a nivel profesional: `CLAUDE.md`, skills, subagentes, hooks y permisos para que la IA trabaje con las reglas de cada proyecto |
+| ▲ | **Next.js** | App Router, Server Components y React 19 (lo aplico en el Portal de Empleo de Funes) |
 | 🐍 | **Python** | CS50P (Harvard): base para ML e IA |
 | 🏗️ | **Arquitectura** | Clean Architecture, sistemas multi-tenant, seguridad a nivel de base de datos |
 | 🇬🇧 | **Inglés** | Lectura técnica diaria y práctica oral |

@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 250" width="840" height="250" role="img" aria-label="PORTAL MUNICIPAL DE EMPLEO: Municipalidad de Funes · programa Funes Tech Lab">
-<title>PORTAL MUNICIPAL DE EMPLEO · Municipalidad de Funes · programa Funes Tech Lab</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 250" width="840" height="250" role="img" aria-label="PORTAL MUNICIPAL DE EMPLEO: Gobierno de Funes · Funes Tech Lab · en equipo con Beex">
+<title>PORTAL MUNICIPAL DE EMPLEO · Gobierno de Funes · Funes Tech Lab · en equipo con Beex</title>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0c0c16"/><stop offset="1" stop-color="#07070d"/></linearGradient>
   <radialGradient id="glow" cx="100%" cy="0%" r="70%"><stop offset="0" stop-color="#39ff14" stop-opacity=".18"/><stop offset="1" stop-color="#39ff14" stop-opacity="0"/></radialGradient>
@@ -24,13 +24,13 @@
 <rect x="2" y="2" width="836" height="246" rx="18" fill="none" stroke="#39ff14" stroke-opacity=".28" stroke-width="1.5"/>
 <rect class="run" x="2" y="2" width="836" height="246" rx="18" fill="none" stroke="#39ff14" stroke-width="2.5" filter="url(#soft)"/>
 <g transform="translate(32,26)">
-  <rect width="250.6" height="24" rx="6" fill="#39ff14" fill-opacity=".1" stroke="#39ff14" stroke-opacity=".6"/>
+  <rect width="280.2" height="24" rx="6" fill="#39ff14" fill-opacity=".1" stroke="#39ff14" stroke-opacity=".6"/>
   <circle class="dot" cx="13" cy="12" r="4" fill="#39ff14" filter="url(#soft)"/>
-  <text x="24" y="16.5" class="tag" textLength="214.6" lengthAdjust="spacingAndGlyphs">GOBIERNO · EN EQUIPO CON BEEX</text>
+  <text x="24" y="16.5" class="tag" textLength="244.2" lengthAdjust="spacingAndGlyphs">EN PRODUCCIÓN · GOBIERNO DE FUNES</text>
 </g>
 <text x="32" y="88" class="title" filter="url(#neon)">PORTAL MUNICIPAL DE EMPLEO</text>
-<text x="32" y="115" class="subtitle">Municipalidad de Funes · programa Funes Tech Lab</text>
+<text x="32" y="115" class="subtitle">Gobierno de Funes · Funes Tech Lab · en equipo con Beex</text>
 <text x="32" y="148" class="line">Conecta a vecinos que buscan trabajo con empresas de la zona, con la Oficina de Empleo</text>
-<text x="32" y="171" class="line">como intermediaria · 3 roles: postulante, empresa y admin · MVP en desarrollo</text>
+<text x="32" y="171" class="line">como intermediaria · 3 roles: postulante, empresa y admin · en desarrollo activo</text>
 <g transform="translate(32.0,196)"><rect width="102.5" height="28" rx="14" fill="#39ff14" fill-opacity=".08" stroke="#39ff14" stroke-opacity=".55"/><text x="12" y="19" class="chip" textLength="78.5" lengthAdjust="spacingAndGlyphs">Next.js 16</text></g><g transform="translate(142.5,196)"><rect width="86.8" height="28" rx="14" fill="#39ff14" fill-opacity=".08" stroke="#39ff14" stroke-opacity=".55"/><text x="12" y="19" class="chip" textLength="62.8" lengthAdjust="spacingAndGlyphs">React 19</text></g><g transform="translate(237.3,196)"><rect width="102.5" height="28" rx="14" fill="#39ff14" fill-opacity=".08" stroke="#39ff14" stroke-opacity=".55"/><text x="12" y="19" class="chip" textLength="78.5" lengthAdjust="spacingAndGlyphs">TypeScript</text></g><g transform="translate(347.8,196)"><rect width="110.3" height="28" rx="14" fill="#39ff14" fill-opacity=".08" stroke="#39ff14" stroke-opacity=".55"/><text x="12" y="19" class="chip" textLength="86.3" lengthAdjust="spacingAndGlyphs">Tailwind v4</text></g><g transform="translate(466.1,196)"><rect width="94.6" height="28" rx="14" fill="#39ff14" fill-opacity=".08" stroke="#39ff14" stroke-opacity=".55"/><text x="12" y="19" class="chip" textLength="70.6" lengthAdjust="spacingAndGlyphs">shadcn/ui</text></g><g transform="translate(568.8,196)"><rect width="86.8" height="28" rx="14" fill="#39ff14" fill-opacity=".08" stroke="#39ff14" stroke-opacity=".55"/><text x="12" y="19" class="chip" textLength="62.8" lengthAdjust="spacingAndGlyphs">Supabase</text></g>
 </svg>
