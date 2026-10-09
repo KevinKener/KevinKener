@@ -39,9 +39,9 @@ entiendo el problema del negocio, lo traduzco en reglas claras, desarrollo, desp
   <a href="https://github.com/KevinKener/blackandwhite"><img src="https://img.shields.io/badge/Código-blackandwhite-ff2bd6?style=flat-square&logo=github&labelColor=0b0b14" alt="Código"></a>
 </p>
 
-<a href="https://github.com/KevinKener/CineClub"><img src="assets/card-cineclub.svg" alt="CineClub: API REST en .NET" width="100%"></a>
+<a href="https://cine-club-wine.vercel.app"><img src="assets/card-cineclub.svg" alt="CineClub: API REST en .NET" width="100%"></a>
 <p align="center">
-  <a href="https://cine-club-green.vercel.app"><img src="https://img.shields.io/badge/▶_Demo-cine--club-b388ff?style=flat-square&labelColor=0b0b14" alt="Demo"></a>
+  <a href="https://cine-club-wine.vercel.app"><img src="https://img.shields.io/badge/▶_Demo-cine--club-b388ff?style=flat-square&labelColor=0b0b14" alt="Demo"></a>
   <a href="https://github.com/KevinKener/CineClub"><img src="https://img.shields.io/badge/Código-CineClub-b388ff?style=flat-square&logo=github&labelColor=0b0b14" alt="Código"></a>
 </p>
 
