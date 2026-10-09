@@ -108,6 +108,6 @@ entiendo el problema del negocio, lo traduzco en reglas claras, desarrollo, desp
 </p>
 
 <p align="center">
-  <b>Rosario, Argentina</b> · Abierto a oportunidades full time y a proyectos colaborativos<br>
+  <b>Rosario / Funes, Santa Fe, Argentina</b> · Abierto a oportunidades full time y a proyectos colaborativos<br>
   <a href="https://www.linkedin.com/in/kevinkener07">LinkedIn</a> · <a href="mailto:kevinrkener07@gmail.com">kevinrkener07@gmail.com</a>
 </p>
